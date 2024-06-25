@@ -1,1 +1,3 @@
 a text file for practicing how to use git
+
+2nd note: my first push went wrong because in GitHub it said to git push -u origin main, but the main should be master not main since that is how your branch is called. I still run into a new problem though.
