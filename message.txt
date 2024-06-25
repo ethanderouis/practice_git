@@ -3,3 +3,6 @@ a text file for practicing how to use git
 2nd note: my first push went wrong because in GitHub it said to git push -u origin main, but the main should be master not main since that is how your branch is called. I still run into a new problem though. 
 
 Still running into a problem with email privacy settings.
+
+I think the main problem was I have my settings on my GitHub where my personal email should not be exposed when i make commits. For obvious reasons. But I was able to use the noreply email provided by git hub and follow the steps from stack overflow
+https://stackoverflow.com/questions/43863522/error-your-push-would-publish-a-private-email-address
