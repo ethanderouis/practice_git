@@ -6,3 +6,16 @@ Still running into a problem with email privacy settings.
 
 I think the main problem was I have my settings on my GitHub where my personal email should not be exposed when i make commits. For obvious reasons. But I was able to use the noreply email provided by git hub and follow the steps from stack overflow
 https://stackoverflow.com/questions/43863522/error-your-push-would-publish-a-private-email-address
+
+
+So notes to know for the future:
+cd - change directory
+mkdir - make new folder
+git init - initialize git repository
+git add - add stuff to the staging area, with either file name or .
+git status - check status in staging area
+git commit -m "<message>" - big changes commits
+
+git checkout -b new_branch - make and go to new_branch
+git checkout master - go back to master branch
+git merge master - merge all changes from master to current branch
